@@ -1,0 +1,8 @@
+<network-params>
+    <lambda>5</lambda>
+    <age-max>15</age-max>
+    <alpha>0.5</alpha>
+    <beta>0.0005</beta>
+    <eps-w>0.05</eps-w>
+    <eps-n>0.0006</eps-n>
+</network-params>
